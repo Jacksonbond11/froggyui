@@ -13,8 +13,8 @@
     @vite('resources/css/app.css')
 </head>
 
-<body class="antialiased">
-    <h1>Test</h1>
+<body class="container p-4">
+    <h1 class="text-5xl font-bold mb-4">Test</h1>
     <div class="join">
         <button class="btn btn-primary join-item">Button</button>
         <button class="btn btn-info join-item">Button</button>
